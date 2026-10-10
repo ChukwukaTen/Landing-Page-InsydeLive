@@ -1,0 +1,3 @@
+# PREVIEW COPY ONLY - not the live site
+User-agent: *
+Disallow: /
